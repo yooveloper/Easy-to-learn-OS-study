@@ -9,11 +9,11 @@
 ## 👨‍👩‍👦‍👦 조원
 
 - [원영](https://github.com/yooveloper) 🙈
-- [선경](https://github.com/)
-- [준석](https://github.com/)
-- [다솜](https://github.com/)
-- [용현](https://github.com/)
-- [현정](https://github.com/)
+- [선경](https://github.com/seongyeong826)
+- [준석](https://github.com/frost0807)
+- [다솜](https://github.com/babybeb)
+- [용현](https://github.com/dragonappear)
+- [현정](https://github.com/MakeIt2sy)
 
 <br>
 
